@@ -1,0 +1,5 @@
+Importa java.util.*;
+Public static void Main(String[] args) {
+   Scanner sc.new Scanner(System.in);
+   System.out.println("hola mundo");
+}
